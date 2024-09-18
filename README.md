@@ -13,7 +13,7 @@
     - Images: Imagens utilizadas na documentação
     - Project: Documentos descritivos do projeto
 
-    - [Pitch](/docs/TP1.md): Cópia do enunciado do TP1
+    - [TP1](/docs/TP1.md): Cópia do enunciado do TP1
 - data
     - 01_raw
         Amostras de dados iniciais
