@@ -12,10 +12,13 @@
     - Data_Dictionaries: Documentos de dicionários de dados
     - Images: Imagens utilizadas na documentação
     - Project: Documentos descritivos do projeto
-    - TP1.md: Cópia do enunciado do TP1
+
+    - [Pitch](/docs/TP1.md): Cópia do enunciado do TP1
 - data
     - 01_raw
         Amostras de dados iniciais
 
 ### Documentos chaves para compreensão do projeto:
-- A ideia do projeto está descrita em [Pitch](/docs/pitch.md)
+- A ideia do projeto está descrita em [Pitch](/docs/Project/pitch.md)
+- [Project Charter](/docs/Project/charter.md)
+- [Business Model Canvas](/docs/Project/BusinessModelCanvas.md)
